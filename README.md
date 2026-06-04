@@ -2,9 +2,7 @@
 
 > A hackathon-ready Android app that performs face recognition fully on device by comparing FaceNet embeddings against a local vector database.
 
-<img src="https://github.com/user-attachments/assets/3a79776c-e5dd-48c3-8b84-6ec3eaf32d2f" width="80%"/>
-
-<img src="https://github.com/user-attachments/assets/2bbdb033-e709-40f1-8326-1634768e5a3c" width="80%"/>
+<img src="Screenshot%202026-06-04%20200610.png" width="80%"/>
 
 ## Quick Pitch
 
