@@ -13,7 +13,7 @@
 
 ## Demo Link For Judges
 
-Share the GitHub Releases page for your own repository with your APK.
+Share the GitHub Releases page for your APK: [Releases · Animeshkbiswas/FaceNet-Android](https://github.com/Animeshkbiswas/FaceNet-Android/releases)
 
 If you want a smoother demo flow, add a QR code that points to the same release page.
 
